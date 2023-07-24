@@ -1,0 +1,11 @@
+name: ThirstPlugin
+version: '${project.version}'
+main: fr.vivicoubar.thirstplugin.ThirstPlugin
+api-version: 1.20
+softdepend: [PlaceholderAPI]
+commands:
+  thirst:
+    permission: "thirst.use"
+permissions:
+  thirst.use:
+    default: true

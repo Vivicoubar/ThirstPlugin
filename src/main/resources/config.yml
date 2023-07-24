@@ -1,0 +1,15 @@
+defaultThirst: 5000
+maximumThirst: 13000
+globalThirstFactor: 0.5
+maxThirst: 10
+malus:
+  walking: 1
+  sprint: 5
+  netherFactor: 3
+  warmBiomeFactor: 2
+  coldBiomeFactor: 0.5
+bonus:
+  potion: 2000
+  melon: 500
+  milk: 1000
+  water: 50
